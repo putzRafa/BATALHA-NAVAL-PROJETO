@@ -1,0 +1,8 @@
+# Ignorar a pasta de arquivos compilados
+output/
+
+# Ignorar arquivos objeto (.o) que possam ser criados
+*.o
+
+# Ignorar executáveis (.exe) do Windows
+*.exe
